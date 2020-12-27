@@ -19,9 +19,8 @@ We have created a database of chest X-ray images for COVID-19 positive cases alo
     -  Researchers can use this database to produce useful and impactful scholarly work on COVID-19, which can help in tackling this pandemic. 
     
 ****Source
-    -  Please find below the link for the source radiographic files.
+    -  Please find below the link for the source radiographic files
     https://www.kaggle.com/tawsifurrahman/covid19-radiography-database
-
 
 
 
